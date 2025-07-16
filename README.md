@@ -3,6 +3,11 @@
 
 **NexMeet** is a full-stack Zoom-inspired video conferencing platform built using **React**, **Node.js**, **Express**, **MongoDB**, and **Socket.io**. It supports **real-time video/audio calls**, **chat messaging**, and **meeting history**, offering a smooth and interactive virtual meeting experience.
 
+### 🚀 Live Demo
+
+👉 [Visit Tradeverse](https://nexmeet-frontend-22lk.onrender.com)
+
+
 ---
 
 ## 🚀 Features
