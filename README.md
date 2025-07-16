@@ -5,7 +5,7 @@
 
 ### 🚀 Live Demo
 
-👉 [Visit Tradeverse](https://nexmeet-frontend-22lk.onrender.com)
+👉 [Visit NexMeet](https://nexmeet-frontend-22lk.onrender.com)
 
 
 ---
